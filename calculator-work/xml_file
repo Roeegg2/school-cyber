@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal">
+
+
+    <EditText
+        android:layout_gravity="horizontal"
+        android:textSize="30dp"
+        android:id="@+id/inputText1"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="hello"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/operator"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+"
+        android:textColor="#000000" />
+
+    <EditText
+        android:id="@+id/inputText2"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="hello"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/equal_sign"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="="
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/equals"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/result"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:hint="result"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:text="1"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/button2" 
+        />
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:text="1"
+        android:layout_marginTop="center"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="0dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:text="1"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:text="1"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:text="1"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:text="1"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:text="1"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        />
+    </LinearLayout>
+
+
+</LinearLayout>
