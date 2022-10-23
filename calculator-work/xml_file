@@ -26,8 +26,6 @@
              />
 
 
-
-
         <TextView
             android:id="@+id/txtInput"
             android:layout_width="match_parent"
@@ -48,6 +46,7 @@
       android:orientation="horizontal" >
 
         <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnTan"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -56,6 +55,7 @@
           android:text="tan" />
 
         <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnCos"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -64,6 +64,7 @@
           android:text="cos" />
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnSin"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -72,6 +73,7 @@
           android:text="sin" />
       
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/clear"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -87,6 +89,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnSeven"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -96,6 +99,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnEight"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -105,6 +109,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnNine"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -114,6 +119,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnDivide"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -129,6 +135,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnFour"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -138,6 +145,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnFive"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -147,6 +155,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnSix"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -156,6 +165,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnMultiply"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -165,12 +175,14 @@
 
   </LinearLayout>
   <LinearLayout
+        android:backgroundTint="#30ba55"
       android:layout_width="fill_parent"
       android:layout_height="75dp"
       android:orientation="horizontal" >
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnOne"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -180,6 +192,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnTwo"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -189,6 +202,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnThree"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -198,6 +212,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnSubtract"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -213,6 +228,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnDecimal"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -222,6 +238,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnZero"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -231,6 +248,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnEquals"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
@@ -240,6 +258,7 @@
 
 
       <Button
+            android:backgroundTint="#30ba55"
           android:id="@+id/btnAdd"
           android:layout_width="wrap_content"
           android:layout_height="75dp"
